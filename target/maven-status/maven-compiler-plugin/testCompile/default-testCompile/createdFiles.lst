@@ -1,0 +1,6 @@
+com\sbstechtest\pageobjects\FrontEndPage.class
+com\sbstechtest\utils\TestRunner.class
+com\sbstechtest\stepdefinitions\Common.class
+com\sbstechtest\stepdefinitions\BackEnd.class
+com\sbstechtest\stepdefinitions\Hooks.class
+com\sbstechtest\stepdefinitions\FrontEnd.class
