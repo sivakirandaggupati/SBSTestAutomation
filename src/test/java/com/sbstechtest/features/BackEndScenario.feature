@@ -1,6 +1,6 @@
 Feature: API Backend Test
 
-    This feature file retreives the mp3 audio clip links from API Test end point and validates response code
+    This feature file retreives the mp3 audio clip links from API Test end point and validates response code.
 
 @API
 Scenario: Invoke test page and validate the audio header
