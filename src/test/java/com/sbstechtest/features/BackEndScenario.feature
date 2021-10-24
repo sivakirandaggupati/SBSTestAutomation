@@ -4,7 +4,7 @@ Feature: API Backend Test
 
     This is a git folder change.
 	
-	  This is a git1 folder change.
+	  This is a git1 folder change
 
 @API
 Scenario: Invoke test page and validate the audio header
