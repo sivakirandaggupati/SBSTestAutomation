@@ -6,7 +6,7 @@ Feature: API Backend Test
 	
 	  This is a git1 folder change.
 	  
-	  Conflict commit
+	  Merge changes
 
 @API
 Scenario: Invoke test page and validate the audio header
