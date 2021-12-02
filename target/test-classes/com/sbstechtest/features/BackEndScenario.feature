@@ -4,7 +4,7 @@ Feature: API Backend Test
 
 
 
-   Back end scenatio changes
+   Back end scenario changes
 
 @API
 Scenario: Invoke test page and validate the audio header
