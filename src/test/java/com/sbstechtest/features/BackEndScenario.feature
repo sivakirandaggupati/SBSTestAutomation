@@ -4,7 +4,7 @@ Feature: API Backend Test
 
 
 
-   Back end scenario new change
+   Back end scenario new changes
 
 
 @API
