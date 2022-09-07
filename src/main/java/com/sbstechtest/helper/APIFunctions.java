@@ -11,7 +11,7 @@ import io.restassured.specification.RequestSpecification;
 import junit.framework.Assert;
 
 public class APIFunctions {
-	
+	// This is IntelliJ change
 	private static Response response;
 	private static String jsonString;
 	
